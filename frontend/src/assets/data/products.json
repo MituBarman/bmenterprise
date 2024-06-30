@@ -10,7 +10,7 @@
         ]
       },
       "price": "****",
-      "description":"The Hydraulic Automatic/Semi-Automatic Paper Plate Machine with Double Die is a high-efficiency device for producing paper plates. It features hydraulic operation, can work in automatic or semi-automatic modes, and includes dual dies for increased productivity. Ideal for small-scale manufacturing and eco-friendly initiative."
+      "description": "The Hydraulic Automatic/Semi-Automatic Paper Plate Machine with Double Die is a high-efficiency device for producing paper plates. It features hydraulic operation, can work in automatic or semi-automatic modes, and includes dual dies for increased productivity. Ideal for small-scale manufacturing and eco-friendly initiative."
     },
 
     "productspecifications": {
@@ -24,7 +24,8 @@
       "Die use": "5’’- 14’’",
       "Tank capacity": "65 liters"
     }
-  }, {
+  },
+  {
     "productdeails": {
       "name": "Crank pressing machine/ Dona making machine double dye",
       "imgurl": {
@@ -35,20 +36,19 @@
         ]
       },
       "price": "*****",
-      "description":""
+      "description": "Introducing our advanced Plate Making Machine, designed for efficient and precise production of plates. Equipped with double dye technology, it allows for the creation of various plate sizes with ease, catering to diverse production needs. Ideal for small-scale enterprises and large-scale operations alike, this machine ensures high-quality output and enhanced productivity. Streamline your plate manufacturing process with reliability and innovation"
     },
 
     "productspecifications": {
       "Automation Grade": "Manual & Semi-Automatic",
       "Voltage": "220V",
-      "Capacity": "Per hour 9000pcs",
+      "Capacity": "Per hour 3000pcs",
       "Phase": "Single phase",
       "Country of origin": "India",
       "Number of dye": "2 dye",
-      "Motor": "2 hp (GODREJ/CROMPTON)",
-      "Die use": "5’’- 14’’",
-      "Tank capacity": "65 liters"
+      "Motor": "1 hp (GODREJ/CROMPTON)",
+      "Die use": "3’’- 14’’inches",
+      "Free dye": "6’’plate(1pcs) 6’’ batti(1pcs)"
     }
   }
 ]
-
