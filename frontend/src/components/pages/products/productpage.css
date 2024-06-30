@@ -1,0 +1,26 @@
+.productpage-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  padding:0px 5px;
+}
+
+.products{
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.productpage-content {
+  width: 99%;
+}
+@media (max-width: 768px) {
+
+  .productpage-content {
+   
+    /* justify-content: center; */
+    align-items: center;
+  }
+}
+

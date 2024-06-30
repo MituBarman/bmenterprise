@@ -1,0 +1,54 @@
+[
+  {
+    "productdeails": {
+      "name": "Hydraulic Automatic /Semi-Automatic Paper Plate Machine Double Dye",
+      "imgurl": {
+        "main": "https://res.cloudinary.com/dywpnkwd8/image/upload/v1718796416/productImages/fkgbfhxyd1plty3s995k.png",
+        "extraimages": [
+          "https://res.cloudinary.com/dywpnkwd8/image/upload/v1718796416/productImages/fkgbfhxyd1plty3s995k.png",
+          "https://res.cloudinary.com/dywpnkwd8/image/upload/v1718796416/productImages/k7jv6m79ttbm5ek7lizn.png"
+        ]
+      },
+      "price": "****",
+      "description":"The Hydraulic Automatic/Semi-Automatic Paper Plate Machine with Double Die is a high-efficiency device for producing paper plates. It features hydraulic operation, can work in automatic or semi-automatic modes, and includes dual dies for increased productivity. Ideal for small-scale manufacturing and eco-friendly initiative."
+    },
+
+    "productspecifications": {
+      "Automation Grade": "Manual & Semi-Automatic",
+      "Voltage": "220V",
+      "Capacity": "Per hour 9000pcs",
+      "Phase": "Single phase",
+      "Country of origin": "India",
+      "Number of dye": "2 dye",
+      "Motor": "2 hp (GODREJ/CROMPTON)",
+      "Die use": "5’’- 14’’",
+      "Tank capacity": "65 liters"
+    }
+  }, {
+    "productdeails": {
+      "name": "Crank pressing machine/ Dona making machine double dye",
+      "imgurl": {
+        "main": "https://res.cloudinary.com/dywpnkwd8/image/upload/v1718796416/productImages/co4ngjorldqtsedazrar.png",
+        "extraimages": [
+          "https://res.cloudinary.com/dywpnkwd8/image/upload/v1718796416/productImages/fkgbfhxyd1plty3s995k.png",
+          "https://res.cloudinary.com/dywpnkwd8/image/upload/v1718796416/productImages/k7jv6m79ttbm5ek7lizn.png"
+        ]
+      },
+      "price": "*****",
+      "description":""
+    },
+
+    "productspecifications": {
+      "Automation Grade": "Manual & Semi-Automatic",
+      "Voltage": "220V",
+      "Capacity": "Per hour 9000pcs",
+      "Phase": "Single phase",
+      "Country of origin": "India",
+      "Number of dye": "2 dye",
+      "Motor": "2 hp (GODREJ/CROMPTON)",
+      "Die use": "5’’- 14’’",
+      "Tank capacity": "65 liters"
+    }
+  }
+]
+

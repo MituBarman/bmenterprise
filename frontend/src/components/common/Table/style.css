@@ -1,0 +1,23 @@
+table {
+  width: auto;
+  background: none;
+  border-collapse: collapse;
+  border-width: 1px;
+  border-color: none;
+  border-style: solid;
+  color: black;
+
+
+}
+
+td,
+th {
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  padding: 5px;
+}
+
+thead {
+  background: none;
+}

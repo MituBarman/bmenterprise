@@ -1,0 +1,96 @@
+.Contactpage-content {
+  height: 100vh;
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+  background-color: white;
+  margin: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.left {
+  background: url("../../../assets/img/5100570-min.jpg") no-repeat center;
+  background-size: contain;
+  width: 40%;
+
+  background-color: white;
+}
+.right {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  padding: 10px;
+  justify-content: center;
+  row-gap: 30px;
+  background-color: white;
+}
+
+.group {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  font-size: 14px;
+  color: black;
+  margin: 5px 0px;
+}
+input,
+textarea {
+  height: 50px;
+  background: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+}
+
+textarea:focus {
+  border-color: #01d28e;
+}
+input:focus {
+  border-color: #01d28e;
+}
+
+textarea {
+  height: 100px;
+}
+input[type="submit"] {
+  border: none;
+  background-color: #01d28e;
+  padding: 0px 5px;
+  color: white;
+  margin-top: 30px;
+}
+input::placeholder,
+textarea::placeholder {
+  color: rgba(0, 0, 0, 0.1);
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
+  .Contactpage-container {
+    height: auto;
+  }
+  .Contactpage-content {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 100%;
+  }
+  .right {
+    height: 400px;
+    width: 90%;
+  }
+  .left {
+    width: 90%;
+
+    height: 300px;
+  }
+  a {
+    text-decoration: none;
+  }
+  input[type="submit"] {
+    font-size: small;
+  }
+}
